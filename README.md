@@ -1,0 +1,1 @@
+## Expirementing with a Django Project and Python 3.8.2
