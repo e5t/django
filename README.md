@@ -1,1 +1,1 @@
-## Experimenting with a Django Project and Python 3.8.2
+## Experimenting with a Django Project and Python 3.8.5
