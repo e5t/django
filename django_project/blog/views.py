@@ -4,13 +4,13 @@ posts = [
     {
         'author': 'Jason Turner',
         'title': 'Blog Post 1',
-        'content': 'First Post content',
+        'summary': 'First Post summary',
         'date_posted': 'June 1, 2020'
     },
     {
         'author': 'Jason Turner',
         'title': 'Blog Post 2',
-        'content': 'Second Post content',
+        'summary': 'Second Post summary',
         'date_posted': 'June 2, 2020'
     }
 ]
